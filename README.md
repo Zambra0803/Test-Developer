@@ -62,11 +62,7 @@
 
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
-
-
-x
-
-## 🛠️ Abre y ejecuta el proyecto
-
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto**
+- 1-`Crear datos`: Creamos datos atravez de un formulario web, estos datos se guardan en la Base de datos de PosgreSQL
+- 2- `Obtenemos Datos de la BD`: Se hace consulta a la base de datos para obtener los datos de cada una de las tareas las cuales se listan  
+- 3- `Editar datos`: Se obtiene los datos relacionados con un ID los cuales de quiere editar, se actualizan los nuevos datos en la Base de datos
+- 4- `Eliminar Datos`: Se eliminan los datos relacianados a un ID de la base de datos
